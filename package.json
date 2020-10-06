@@ -1,0 +1,24 @@
+{
+  "name": "nguml",
+  "version": "1.0.0",
+  "description": "Automatic UML documentation of Angular projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxempulse/nguml.git"
+  },
+  "keywords": [
+    "angular",
+    "ng",
+    "uml"
+  ],
+  "author": "ML",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maxempulse/nguml/issues"
+  },
+  "homepage": "https://github.com/Maxempulse/nguml#readme"
+}

@@ -7,3 +7,4 @@ Overview components and services trees while understanding information flows get
 
 Check algorithms that transform the information or make information flows switching paths.
 
+Watch modifications history based on Git using timeline
